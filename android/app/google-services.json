@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "829619145819",
+    "project_id": "dexterflutterapp",
+    "storage_bucket": "dexterflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829619145819:android:34aa10edcd285b7b12837e",
+        "android_client_info": {
+          "package_name": "com.example.dexterflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829619145819-3u68fvjovra2trat1klmo96mdvvv9fdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbe2r9GCyG0wwOAjXDyBmRT77r9zKQ1No"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829619145819-3u68fvjovra2trat1klmo96mdvvv9fdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
